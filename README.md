@@ -72,5 +72,3 @@ Conducted exploratory data analysis on key topics, such as:
 ---
 
 This project showcases how **data science** can be applied to **agriculture** to optimize crop production, improve yield forecasts, and make informed policy decisions.  
-
-Feel free to explore the repository, clone the project, and contribute! 🚀
