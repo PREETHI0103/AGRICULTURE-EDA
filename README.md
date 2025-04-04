@@ -26,7 +26,7 @@
 ---
 
 ### **2️⃣ Exploratory Data Analysis (EDA)**  
-Conducted exploratory data analysis on key topics, such as:  
+Conducted exploratory data analysis using various charts from matplotlib, searborn and plotly on key topics, such as:  
 - **Rice and Wheat Production Trends**  
 - **Oilseed and Sunflower Production**  
 - **Sugarcane and Sorghum Production**  
