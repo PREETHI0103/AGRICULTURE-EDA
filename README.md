@@ -54,7 +54,7 @@ Key analyses performed with **Matplotlib**, **Seaborn**, & **Plotly**:
   - 📈 Line Charts (production trends over time)  
   - 🔍 Scatter Plots (area vs yield relationships)  
   - 🎯 KPI Cards (highlighting key crop metrics)  
-  - 📊 Stacked Bar Charts (multi-variable trends)  
+  - 📊 Stacked Bar Charts (multi-variable trends)... and more...
 
 ---
 
