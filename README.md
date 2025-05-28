@@ -36,7 +36,7 @@ Key analyses performed with **Matplotlib**, **Seaborn**, & **Plotly**:
 - 🍬 Sugarcane & Sorghum insights  
 - 🥜 Groundnut, Soybean, & Maize production analysis  
 - 📈 Impact of area cultivated on yield  
-- ⚖️ Yield comparisons between rice and wheat  
+- ⚖️ Yield comparisons between rice and wheat ... and more...
 
 ### 3️⃣ Database Creation & Querying  
 - Created **AGRI_DATA** database on **TiDB Cloud**  
