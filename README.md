@@ -69,7 +69,7 @@ Key analyses performed with **Matplotlib**, **Seaborn**, & **Plotly**:
 ---
 
 ## 🏷️ Tags  
-`#Python #DataScience #EDA #SQL #TiDBCloud #PowerBI #DataVisualization #Agriculture #IndianAgriculture #CropProduction #DataCleaning #GoogleColab`
+`#Python` `#DataScience` `#EDA` `#SQL` `#TiDBCloud` `#PowerBI` `#DataVisualization` `#Agriculture` `#IndianAgriculture` `#CropProduction` `#DataCleaning` `#GoogleColab`
 
 ---
 
